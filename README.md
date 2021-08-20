@@ -13,3 +13,6 @@ TestNG
 Selenide
 Selenium
 ```
+* https://mvnrepository.com/artifact/org.testng/testng
+* https://mvnrepository.com/artifact/com.codeborne/selenide/5.23.3
+* https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/3.141.59
